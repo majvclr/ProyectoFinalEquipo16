@@ -1,0 +1,23 @@
+# Blender 4.5.4 LTS MTL File: 'Butterflyfish_Animated_01.blend'
+# www.blender.org
+
+newmtl Body
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/PC/Downloads/Diffuse_Body.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/PC/AppData/Local/Temp/Rar$DIa11184.38614/Butterflyfish_Animated_00.fbm/Nmr.tif
+
+newmtl Eyes
+Ns 63.117920
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/PC/Downloads/Diffuse_Eye.png
